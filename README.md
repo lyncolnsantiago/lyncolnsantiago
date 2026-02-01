@@ -37,6 +37,16 @@ To deliver high-quality, end-to-end solutions, I leverage a versatile set of too
 
 ---
 
+### 🎮 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyncolnsantiago/lyncolnsantiago/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyncolnsantiago/lyncolnsantiago/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lyncolnsantiago/lyncolnsantiago/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyncolnsantiago)
