@@ -4,40 +4,41 @@
 
 ---
 
-* 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**.
-* 🚀 **Futuro Desenvolvedor Full Stack** focado em arquiteturas robustas e escaláveis.
-* 📈 **Movido pela evolução**, transformando cada bug em aprendizado para construir softwares melhores.
+* 🎓 **Systems Analysis and Development Student (ADS)**.
+* 🚀 **Future Full Stack Developer** focused on robust and scalable architectures.
+* 📈 **Driven by growth**, turning every bug into a lesson to craft better software.
 
-### 🎯 Foco Principal: Backend & Dados
+### 🎯 Primary Focus: Backend & Data
 
-Atualmente, minha energia está concentrada no ecossistema **Java** com o framework **Spring Boot**, onde desenvolvo o "coração" das aplicações. Utilizo o **SQL (MySQL)** para garantir uma modelagem de dados sólida, performática e inteligente.
+Currently, my energy is concentrated on the **Java** ecosystem and the **Spring Boot** framework, where I develop the "heart" of applications. I utilize **SQL (MySQL)** to ensure solid, performant, and intelligent data modeling.
 
-### 🛠️ Diferencial Full Stack & Ferramentas
+### 🛠️ Full Stack Skills & Tools
 
-Para entregar soluções completas e de alta qualidade, também domino um conjunto de ferramentas que complementam meu perfil técnico:
+To deliver high-quality, end-to-end solutions, I leverage a versatile set of tools that complement my technical profile:
 
-* **Ecossistema Mobile:** Desenvolvimento de aplicações híbridas e fluidas com **React Native**.
-* **Web & Interface:** Construção de interfaces modernas e responsivas utilizando **JavaScript**, **HTML5** e **CSS3**.
-* **Integrações & Automação:** Experiência com **Supabase** e fluxos de automação com **n8n** para otimizar processos.
+* **Mobile Ecosystem:** Developing fluid hybrid applications with **React Native**.
+* **Web & Interface:** Building modern and responsive interfaces using **JavaScript**, **HTML5**, and **CSS3**.
+* **Integrations & Automation:** Experience with **Supabase** and automation flows with **n8n** to optimize processes.
 
 ---
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react native logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="supabase logo"  />
+</div>
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyncolnsantiago)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyncoln.santiago)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyncoln.santiago@example.com)
