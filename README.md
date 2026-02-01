@@ -1,27 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=00D4FF&width=435&separator=%3C&lines=Hey+there!+I'm+Lyncoln+☕)](https://git.io/typing-svg)
 
-##Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta da tecnologia que acredita que o código é a ferramenta perfeita para transformar ideias em realidade. Atualmente, foco minha energia para me tornar um **Desenvolvedor Full Stack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou trilhando meu caminho para me tornar um **Desenvolvedor Full Stack**. Acredito que a tecnologia deve ser intuitiva e eficiente, e uso o código para construir soluções que facilitem a vida das pessoas.
+
+Atualmente, meu foco principal está no ecossistema **Java** com o framework **Spring Boot**, onde desenvolvo APIs seguras e escaláveis utilizando **MySQL** para o gerenciamento inteligente de dados. No lado do cliente, utilizo **JavaScript** e **React Native** para criar experiências mobile fluidas, sempre mantendo o cuidado visual e a semântica com **HTML5** e **CSS3**.
 
 ---
 
-### 🚀 O que estou fazendo agora
-* **Deep Dive no Backend:** No momento, estou mergulhado no ecossistema **Java** e dominando o framework **Spring Boot** para construir APIs robustas e escaláveis.
-* **Ecossistema Mobile:** Desenvolvo interfaces dinâmicas e fluidas utilizando **React Native**.
-* **Automação & Web:** Utilizo **Python** para automações inteligentes e tenho uma base sólida em **HTML** e **CSS** para criar experiências web responsivas.
+### 🛠️ Minha Tech Stack
 
-### 🛠️ No meu cinto de utilidades
-* **Linguagens:** Java, Python, JavaScript (React Native), HTML e CSS.
-* **Frameworks & Ferramentas:** Spring Boot, n8n (automação) e Supabase.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ### 📂 No que ando trabalhando
-* **CampManager:** Um sistema de gestão completo desenvolvido com **Java** e **Spring Boot**.
-* **Brechó Eliana:** Aplicativo mobile focado em inventário e finanças, utilizando **React Native** e **Supabase**.
-* **Bot de Vagas:** Script em **Python** para automação de candidaturas no LinkedIn.
+* **CampManager:** Sistema de gestão completo desenvolvido com **Java** e **Spring Boot**, focado em organização e persistência de dados.
+* **Brechó Eliana:** App mobile em **React Native** com backend no **Supabase** para controle de vendas e estoque.
 
 ---
 
-### 🤝 Vamos conversar?
-Estou sempre aberto a novos desafios, projetos freelance ou apenas para trocar uma ideia sobre tecnologia!
+### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_DO_INSTAGRAM_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
