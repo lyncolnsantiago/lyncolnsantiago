@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=1200&color=00D4FF&width=435&separator=%3C&lines=Hey+there!+I'm+Lyncoln+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=1200&color=ED8B00&width=435&separator=%3C&lines=Hey+there!+I'm+Lyncoln+☕)](https://git.io/typing-svg)
 
 # 👨‍💻 About Me
 
