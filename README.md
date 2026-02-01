@@ -2,11 +2,11 @@
 
 # 👨‍💻 About Me
 
----
-
 * 🎓 **Systems Analysis and Development Student (ADS)**.
 * 🚀 **Future Full Stack Developer** focused on robust and scalable architectures.
 * 📈 **Driven by growth**, turning every bug into a lesson to craft better software.
+
+---
 
 ### 🎯 Primary Focus: Backend & Data
 
