@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=1200&color=ED8B00&width=435&separator=%3C&lines=Hey+there!+I'm+Lyncoln+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=1200&color=B0E0E6&width=435&separator=%3C&lines=Hey+there!+I'm+Lyncoln+☕)](https://git.io/typing-svg)
 
 # 👨‍💻 About Me
 
@@ -6,7 +6,7 @@
 * 🚀 **Future Full Stack Developer** focused on robust and scalable architectures.
 * 📈 **Driven by growth**, turning every bug into a lesson to craft better software.
 
----
+
 
 ### 🎯 Primary Focus: Backend & Data
 
@@ -20,19 +20,20 @@ To deliver high-quality, end-to-end solutions, I leverage a versatile set of too
 * **Web & Interface:** Building modern and responsive interfaces using **JavaScript**, **HTML5**, and **CSS3**.
 * **Integrations & Automation:** Experience with **Supabase** and automation flows with **n8n** to optimize processes.
 
----
+
 
 ### 🧰 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react native logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="supabase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react native logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="supabase logo" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/OrangeRed" height="45" alt="git logo" />
 </div>
 
 ---
@@ -45,7 +46,7 @@ To deliver high-quality, end-to-end solutions, I leverage a versatile set of too
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lyncolnsantiago/lyncolnsantiago/output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 
 ### 📫 Let's connect!
 
